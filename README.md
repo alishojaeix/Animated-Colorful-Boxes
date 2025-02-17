@@ -35,10 +35,6 @@ You can view the live demo of this project [here](https://github.com/alishojaeix
 2. CSS styles define the initial appearance of the box and ensure smooth transitions for animations.
 3. JavaScript adds event listeners to the buttons, allowing users to trigger animations by clicking on them.
 
-https://github.com/user-attachments/assets/3b37e162-6672-4f6e-9f9d-8b515256781b
-
-
-
 ## Installation
 
 1. Clone the repository:
