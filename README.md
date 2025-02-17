@@ -35,9 +35,21 @@ You can view the live demo of this project [here](https://github.com/alishojaeix
 2. CSS styles define the initial appearance of the box and ensure smooth transitions for animations.
 3. JavaScript adds event listeners to the buttons, allowing users to trigger animations by clicking on them.
 
+https://github.com/user-attachments/assets/3b37e162-6672-4f6e-9f9d-8b515256781b
+
+
+
 ## Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/alishojaeix/animated-colorful-boxes.git
+
+
+https://github.com/user-attachments/assets/1b25d4fe-9e6a-4432-83df-0dbc1f4ff3e9
+
+
+
+https://github.com/user-attachments/assets/1cf447a1-3c36-4d2a-8d76-3e3acc72e7fd
+
